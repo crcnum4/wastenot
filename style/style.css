@@ -3,3 +3,26 @@ html, body{
 	margin: 0px;
 	height: 100%;
 }
+
+body {
+  background-color: #FDF5F6; 
+}
+
+.navbar {
+	background-color: #BC2D37;
+  border: 0;
+}
+
+.navbar-brand, a .navbar-brand {
+  color: #ffffff !important;
+}
+
+#body {
+  height: 80%;
+  background-color: darkgray;
+}
+
+#footer {
+  background-color: #373030;
+  height:250px;
+}
