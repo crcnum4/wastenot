@@ -21,13 +21,13 @@ include('../script/registerd.php');
 
     <!-- bootstrap links -->
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="../style/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
 
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
     <!--pages css-->
-    <link rel="stylesheet" href="../style/style.css">
+    <link rel="stylesheet" href="../css/style.css">
     <script src='../script/registrationd.js'></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--BOOTSTRAP form builder http://bootsnipp.com/forms -->
