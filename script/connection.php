@@ -1,3 +1,3 @@
 <?php
-    $link = mysqli_connect("localhost", "pscoffic_WNAdmin", "h>/~$u+%Y5", "pscoffic_wasteNot");
+    $link = mysqli_connect("localhost", "pscoffic_WNAdmin", "tmLfVs4aBa!o", "pscoffic_wasteNot");
 ?>
